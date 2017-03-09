@@ -1,7 +1,7 @@
 # MLH Localhost Intro to Docker
 
 This repositiory contains the sample code from the [MLH Localhost Intro to
-Docker][1] workshop.
+Docker][7] workshop.
 
 ## Sample Code / Downloads
 
@@ -41,3 +41,4 @@ SOFTWARE
 [4]: https://docker-flask-app.herokuapp.com/
 [5]: flask-app/
 [6]: https://github.com/MLH/mlh-localhost-intro-to-docker/raw/master/downloads/flask-app.zip
+[7]: https://localhost.mlh.io/activities/intro-to-docker/
