@@ -1,0 +1,39 @@
+* {
+  -webkit-print-color-adjust: exact;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 24px;
+  line-height: 1.6;
+  min-height: 100%;
+}
+
+.container {
+  padding-top: 30%;
+  min-height: 100%;
+}
+
+.message { padding: 10px; }
+
+h1 {
+  -webkit-font-smoothing: antialiased;
+  color: black;
+  cursor: text;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+p { margin: 15px 0; }
+
+@media screen and (min-width: 914px) {
+    body {
+        margin: 0 auto;
+        width: 854px;
+    }
+}
