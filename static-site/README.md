@@ -5,6 +5,15 @@ to Docker workshops.
 
 ## Running the Example
 
+This example is host on DockerHub as [mlhacks/docker-static-site][3].  You can download
+and run it locally with the following command:
+
+```
+$ docker run -d -p 8888:80 mlhacks/docker-static-site
+```
+
+## Building the Example
+
 To run this example, you need to build the Docker Image first. To do so, run
 the following command:
 
@@ -30,3 +39,4 @@ Major League Hacking, Inc ([READ LICENSE](../README.md)).
 
 [1]: https://github.com/docker/labs/tree/master/beginner/static-site
 [2]: http://localhost:8888
+[3]: https://hub.docker.com/r/mlhacks/docker-static-site/
