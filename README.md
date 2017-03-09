@@ -36,6 +36,6 @@ SOFTWARE
 ```
 
 [1]: static-site/
-[2]: downloads/static-site.zip
+[2]: /MLH/mlh-localhost-intro-to-docker/raw/master/downloads/static-site.zip
 [3]: flask-app/
-[4]: downloads/flask-app.zip
+[4]: /MLH/mlh-localhost-intro-to-docker/raw/master/downloads/flask-app.zip
