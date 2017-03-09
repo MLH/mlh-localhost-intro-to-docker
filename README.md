@@ -3,10 +3,10 @@
 This repositiory contains the sample code from the [MLH Localhost Intro to
 Docker][1] workshop.
 
-## Samples
+## Sample Code / Downloads
 
- - [Docker Static Site](static-site/)
- - [Flask App](flask-app/)
+ - Docker Static Site - [Source][1] / [Download][2]
+ - Flask App - [Source][3] / [Download][4]
 
 ## License
 
@@ -34,3 +34,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 ```
+
+[1]: static-site/
+[2]: downloads/static-site.zip
+[3]: flask-app/
+[4]: downloads/flask-app.zip
