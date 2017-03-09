@@ -5,8 +5,8 @@ Docker][1] workshop.
 
 ## Sample Code / Downloads
 
- - Docker Static Site - [Source][1] / [Download][2]
- - Flask App - [Source][3] / [Download][4]
+ - Docker Static Site - [Demo][1] / [Source][2] / [Download][3]
+ - Flask App - [Demo][4] / [Source][5] / [Download][6]
 
 ## License
 
@@ -35,7 +35,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 ```
 
-[1]: static-site/
-[2]: https://github.com/MLH/mlh-localhost-intro-to-docker/raw/master/downloads/static-site.zip
-[3]: flask-app/
-[4]: https://github.com/MLH/mlh-localhost-intro-to-docker/raw/master/downloads/flask-app.zip
+[1]: https://docker-static-site.herokuapp.com/
+[2]: static-site/
+[3]: https://github.com/MLH/mlh-localhost-intro-to-docker/raw/master/downloads/static-site.zip
+[4]: https://docker-flask-app.herokuapp.com/
+[5]: flask-app/
+[6]: https://github.com/MLH/mlh-localhost-intro-to-docker/raw/master/downloads/flask-app.zip
