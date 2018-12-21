@@ -4,9 +4,9 @@ import random
 app = Flask(__name__)
 
 images = [
-  "http://bit.ly/docker-cat-1",
-  "http://bit.ly/docker-cat-2",
-  "http://bit.ly/docker-cat-3"
+  "https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif",
+  "https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif",
+  "https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif"
 ]
 
 @app.route('/')
